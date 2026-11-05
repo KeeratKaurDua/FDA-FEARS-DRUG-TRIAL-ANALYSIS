@@ -17,7 +17,7 @@ Page 3 - Trends, Source and Indications
 
 ## Data
 - Source: FDA FAERS quarterly ASCII files (DEMO, DRUG, INDI, OUTC; REAC, THER and RPSR reviewed but not loaded).
-- Link: https://www.fda.gov/drugs/fdas-adverse-event-reporting-system-faers
+- Link: https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-latest-quarterly-data-files
 - Raw files are not included because of size. Download Q2 2026 from the link above.
 - Sample: first 500 cases of the quarter, for performance.
 
